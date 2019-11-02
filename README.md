@@ -1,2 +1,2 @@
 # NiiStatGUI
-converted mlapp to m and fixed some errors...still contains some errors...
+converted mlapp to m and fixed some errors
